@@ -28,6 +28,7 @@ var iLoveTheBeatles = function(num) {
   
   var message = [],
       i = 0;
+      
   do {
     message.push("I love the Beatles!");
     i++;
