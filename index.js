@@ -33,6 +33,6 @@ var iLoveTheBeatles = function(num) {
     message.push("I love the Beatles!");
     i++;
   } 
-  while (i < num && num < 16); 
+  while (i <= num && num < 15); 
   return message;
 }
